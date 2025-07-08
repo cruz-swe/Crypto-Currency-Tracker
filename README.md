@@ -4,11 +4,10 @@ A simple and elegant one-page web app to track cryptocurrency prices in real tim
 
 ## 📸 Preview
 
-![screenshot](./screenshot.png) *(Optional: add a screenshot of the app)*
+![screenshot](preview.png) 
 
 ## ✨ Features
 
-- 🔄 Real-time data fetched from a public cryptocurrency API
 - 🔍 Search functionality to filter currencies by name or symbol
 - 💻 Responsive design for mobile and desktop
 - ⚡ Built using only **HTML**, **CSS**, and **JavaScript** — no frameworks!
@@ -17,15 +16,13 @@ A simple and elegant one-page web app to track cryptocurrency prices in real tim
 
 - HTML
 - CSS
-- JavaScript (Fetch API)
-- [CoinGecko API](https://www.coingecko.com/en/api) *(or whichever API you used)*
+- JavaScript 
 
 ## 📂 How to Use
 
 1. Clone the repo:
    ```bash
    git clone https://github.com/yourusername/crypto-tracker.git
-````
 
 2. Open `index.html` in your browser:
 
@@ -50,12 +47,8 @@ No build tools or installations required — just a modern browser.
 
 ## 📄 License
 
-This project is open-source and free to use under the [MIT License](LICENSE).
+This project is open-source and free to use.
 
 ---
 
-**Made with ❤️ using pure JavaScript.**
-
-```
-
----
+**Made using pure JavaScript.**
