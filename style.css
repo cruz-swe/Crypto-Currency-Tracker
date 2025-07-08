@@ -1,0 +1,98 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f4f8;
+    color: #333;
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: black;
+    color: white;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+ h1 
+ {
+    font-size: 1.5rem;
+ }
+  
+  
+  main {
+    padding: 1rem;
+    margin-top: 2%;
+  }
+
+  .search-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  input#search {
+    width: 40%;
+    padding: 20px;
+    font-size: 16px;
+    color: #000;
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    border-radius: 25px;
+    outline: none;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    margin-bottom: 12px;
+  }
+  
+  input#search::placeholder {
+    color: rgba(8, 1, 1, 0.7);
+  }
+  
+  input#search:focus {
+    background: rgba(255, 255, 255, 0.2);
+    border-color: #00c6ff;
+    box-shadow: 0 0 10px rgba(0, 198, 255, 0.6);
+  }
+  
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1%;
+  }
+  
+  table th, table td {
+    text-align: left;
+    padding: 0.75rem;
+    border: 1px solid #ddd;
+  }
+  
+  table th {
+    background-color: black;
+    color: white;
+  }
+  
+  table .crypto-image{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+  }
+  
+  table img {
+    width: 60px;
+    height: 60px;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: black;
+    color: white;
+  }
+  
