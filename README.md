@@ -52,3 +52,4 @@ This project is open-source and free to use.
 ---
 
 **Made using pure JavaScript.**
+Thank You
